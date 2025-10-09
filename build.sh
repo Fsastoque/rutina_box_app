@@ -12,4 +12,5 @@ apt-get update && apt-get install -y \
 pip install -r requirements.txt
 
 # Instala Chromium (navegador para Playwright)
-python -m playwright install chromium
+#python -m playwright install chromium
+python -m playwright install chromium --with-deps
