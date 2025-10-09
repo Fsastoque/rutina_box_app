@@ -7,7 +7,7 @@ export PLAYWRIGHT_BROWSERS_PATH=/opt/render/project/src/.playwright-browsers
 # Instala navegadores si no existen
 if [ ! -d "$PLAYWRIGHT_BROWSERS_PATH" ]; then
   echo "Instalando navegadores de Playwright..."
-  python -m playwright install chromium --with-deps
+  python -m playwright install chromium
 else
   echo "Navegadores ya instalados, continuando..."
 fi
