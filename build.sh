@@ -11,6 +11,9 @@ apt-get update && apt-get install -y \
 # Instala las dependencias Python
 pip install -r requirements.txt
 
+# Define la variable para instalación local de navegadores
+export PLAYWRIGHT_BROWSERS_PATH=0
+
 # Instala Chromium (navegador para Playwright)
 #python -m playwright install chromium
 python -m playwright install chromium
