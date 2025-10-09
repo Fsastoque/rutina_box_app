@@ -1,0 +1,77 @@
+[
+    {
+        "domain": "fabian0606.wixsite.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "server-session-bind",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "8f6a6472-9a08-410f-adb2-cf3a677600a3"
+    },
+    {
+        "domain": ".fabian0606.wixsite.com",
+        "expirationDate": 1759935120,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "bSession",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "5b479f5f-bb69-4cf0-8ea4-8439872465b8|2"
+    },
+    {
+        "domain": ".fabian0606.wixsite.com",
+        "expirationDate": 1761142882.871447,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "smSession",
+        "path": "/streetfitness",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "JWS.eyJraWQiOiJQSXpvZGJiQiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjQ2ZjBhMDIyLThkMTMtNDczZC04OWJlLTkzMzFlZWMxYzcyZVwiLFwiY29sbGVjdGlvbklkXCI6XCJlZmQ3MWFhYS0zMjFlLTRjYjEtYjFkNC0wMjRiZDhlMGQzYTdcIixcIm1ldGFTaXRlSWRcIjpcIjA1YzYwOTUwLTdjYmQtNDgwZC1iZjc3LWU3MjUwYTE2NTk1NFwiLFwib3duZXJcIjpmYWxzZSxcImNyZWF0aW9uVGltZVwiOjE3NTk5MzMyODE1MjMsXCJleHBpcmVzSW5cIjoxMjA5NjAwMDAwLFwiZXhwaXJhdGlvblRpbWVcIjoxNzYxMTQyODgxNTIzLFwibGFzdFJlZnJlc2hlZFwiOjE3NTk5MzMyODI3NDksXCJhZG1pblwiOmZhbHNlLFwic2Vzc2lvbklkXCI6XCI4ZWM0ZjJiYi1kNjI1LTRmMWQtYWQ5ZC1mNjc1ODRiMTQ1MzdcIixcImNvbnRhY3RJZFwiOlwiNDZmMGEwMjItOGQxMy00NzNkLTg5YmUtOTMzMWVlYzFjNzJlXCJ9IiwiaWF0IjoxNzU5OTMzMjgyfQ.5Nh2aPf-7a90LO1B-pG-VuW3dPmnj-2N_833G2DWos8"
+    },
+    {
+        "domain": ".fabian0606.wixsite.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "hs",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "1479233549"
+    },
+    {
+        "domain": ".fabian0606.wixsite.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "1759933275|5GPKu9ryP3e1"
+    },
+    {
+        "domain": ".fabian0606.wixsite.com",
+        "expirationDate": 1794493320.394664,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "svSession",
+        "path": "/streetfitness",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "18059e2f6f6c329a4252b5f20a477dad33d51568a911b722da045a44de3791532663609fcfae7bee606b3afc87956da01e60994d53964e647acf431e4f798bcdd22502935709f4c199d76e2d04921dcf3bd8bb02a8e77695435a24e1ae2653e063bc237a38ead133a7b599616fff30e19cd63a9a85f95061fa0612879559f7f8c227c5f77f84ed203f4cce923cc6f84d"
+    }
+]
