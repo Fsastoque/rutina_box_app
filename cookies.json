@@ -9,11 +9,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "8f6a6472-9a08-410f-adb2-cf3a677600a3"
+        "value": "7fbcdec6-fe38-4346-8e6c-d51e75efb6bf"
     },
     {
         "domain": ".fabian0606.wixsite.com",
-        "expirationDate": 1759935120,
+        "expirationDate": 1763741233,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bSession",
@@ -22,11 +22,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "5b479f5f-bb69-4cf0-8ea4-8439872465b8|2"
+        "value": "2a1338e4-7a4a-43a2-9872-eb25ce080e2a|3"
     },
     {
         "domain": ".fabian0606.wixsite.com",
-        "expirationDate": 1761142882.871447,
+        "expirationDate": 1764949021.779237,
         "hostOnly": false,
         "httpOnly": true,
         "name": "smSession",
@@ -35,7 +35,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "JWS.eyJraWQiOiJQSXpvZGJiQiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjQ2ZjBhMDIyLThkMTMtNDczZC04OWJlLTkzMzFlZWMxYzcyZVwiLFwiY29sbGVjdGlvbklkXCI6XCJlZmQ3MWFhYS0zMjFlLTRjYjEtYjFkNC0wMjRiZDhlMGQzYTdcIixcIm1ldGFTaXRlSWRcIjpcIjA1YzYwOTUwLTdjYmQtNDgwZC1iZjc3LWU3MjUwYTE2NTk1NFwiLFwib3duZXJcIjpmYWxzZSxcImNyZWF0aW9uVGltZVwiOjE3NTk5MzMyODE1MjMsXCJleHBpcmVzSW5cIjoxMjA5NjAwMDAwLFwiZXhwaXJhdGlvblRpbWVcIjoxNzYxMTQyODgxNTIzLFwibGFzdFJlZnJlc2hlZFwiOjE3NTk5MzMyODI3NDksXCJhZG1pblwiOmZhbHNlLFwic2Vzc2lvbklkXCI6XCI4ZWM0ZjJiYi1kNjI1LTRmMWQtYWQ5ZC1mNjc1ODRiMTQ1MzdcIixcImNvbnRhY3RJZFwiOlwiNDZmMGEwMjItOGQxMy00NzNkLTg5YmUtOTMzMWVlYzFjNzJlXCJ9IiwiaWF0IjoxNzU5OTMzMjgyfQ.5Nh2aPf-7a90LO1B-pG-VuW3dPmnj-2N_833G2DWos8"
+        "value": "JWS.eyJraWQiOiJQSXpvZGJiQiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjQ2ZjBhMDIyLThkMTMtNDczZC04OWJlLTkzMzFlZWMxYzcyZVwiLFwiY29sbGVjdGlvbklkXCI6XCJlZmQ3MWFhYS0zMjFlLTRjYjEtYjFkNC0wMjRiZDhlMGQzYTdcIixcIm1ldGFTaXRlSWRcIjpcIjA1YzYwOTUwLTdjYmQtNDgwZC1iZjc3LWU3MjUwYTE2NTk1NFwiLFwib3duZXJcIjpmYWxzZSxcImNyZWF0aW9uVGltZVwiOjE3NjM3Mzk0MjEwODgsXCJleHBpcmVzSW5cIjoxMjA5NjAwMDAwLFwiZXhwaXJhdGlvblRpbWVcIjoxNzY0OTQ5MDIxMDg4LFwibGFzdFJlZnJlc2hlZFwiOjE3NjM3Mzk0MjE3MDIsXCJhZG1pblwiOmZhbHNlLFwic2Vzc2lvbklkXCI6XCIzNjJkNTVlOC1kMWMwLTRlNmEtYTNiOC0xOGM1NmRmNGJkZjhcIixcImNvbnRhY3RJZFwiOlwiNDZmMGEwMjItOGQxMy00NzNkLTg5YmUtOTMzMWVlYzFjNzJlXCJ9IiwiaWF0IjoxNzYzNzM5NDIxfQ.iip2M1Et-NOdnQtqQjH6qljUm8EehQ8YLApGY8cj8ME"
     },
     {
         "domain": ".fabian0606.wixsite.com",
@@ -47,7 +47,7 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "1479233549"
+        "value": "-1755472313"
     },
     {
         "domain": ".fabian0606.wixsite.com",
@@ -59,11 +59,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "1759933275|5GPKu9ryP3e1"
+        "value": "1763739404|YwFrA4gp0ffx"
     },
     {
         "domain": ".fabian0606.wixsite.com",
-        "expirationDate": 1794493320.394664,
+        "expirationDate": 1798299421.970983,
         "hostOnly": false,
         "httpOnly": true,
         "name": "svSession",
