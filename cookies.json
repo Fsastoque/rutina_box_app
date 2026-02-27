@@ -9,11 +9,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "7fbcdec6-fe38-4346-8e6c-d51e75efb6bf"
+        "value": "ca8870d8-e316-4551-bd55-1fd02d0ba487"
     },
     {
         "domain": ".fabian0606.wixsite.com",
-        "expirationDate": 1763741233,
+        "expirationDate": 1772227753,
         "hostOnly": false,
         "httpOnly": false,
         "name": "bSession",
@@ -22,11 +22,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "2a1338e4-7a4a-43a2-9872-eb25ce080e2a|3"
+        "value": "ccbc2dd9-50f7-445c-8c82-2019cfbfe754|3"
     },
     {
         "domain": ".fabian0606.wixsite.com",
-        "expirationDate": 1764949021.779237,
+        "expirationDate": 1773435533.136633,
         "hostOnly": false,
         "httpOnly": true,
         "name": "smSession",
@@ -35,19 +35,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "JWS.eyJraWQiOiJQSXpvZGJiQiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjQ2ZjBhMDIyLThkMTMtNDczZC04OWJlLTkzMzFlZWMxYzcyZVwiLFwiY29sbGVjdGlvbklkXCI6XCJlZmQ3MWFhYS0zMjFlLTRjYjEtYjFkNC0wMjRiZDhlMGQzYTdcIixcIm1ldGFTaXRlSWRcIjpcIjA1YzYwOTUwLTdjYmQtNDgwZC1iZjc3LWU3MjUwYTE2NTk1NFwiLFwib3duZXJcIjpmYWxzZSxcImNyZWF0aW9uVGltZVwiOjE3NjM3Mzk0MjEwODgsXCJleHBpcmVzSW5cIjoxMjA5NjAwMDAwLFwiZXhwaXJhdGlvblRpbWVcIjoxNzY0OTQ5MDIxMDg4LFwibGFzdFJlZnJlc2hlZFwiOjE3NjM3Mzk0MjE3MDIsXCJhZG1pblwiOmZhbHNlLFwic2Vzc2lvbklkXCI6XCIzNjJkNTVlOC1kMWMwLTRlNmEtYTNiOC0xOGM1NmRmNGJkZjhcIixcImNvbnRhY3RJZFwiOlwiNDZmMGEwMjItOGQxMy00NzNkLTg5YmUtOTMzMWVlYzFjNzJlXCJ9IiwiaWF0IjoxNzYzNzM5NDIxfQ.iip2M1Et-NOdnQtqQjH6qljUm8EehQ8YLApGY8cj8ME"
-    },
-    {
-        "domain": ".fabian0606.wixsite.com",
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "hs",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "-1755472313"
+        "value": "JWS.eyJraWQiOiJQSXpvZGJiQiIsImFsZyI6IkhTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcIjQ2ZjBhMDIyLThkMTMtNDczZC04OWJlLTkzMzFlZWMxYzcyZVwiLFwiY29sbGVjdGlvbklkXCI6XCJlZmQ3MWFhYS0zMjFlLTRjYjEtYjFkNC0wMjRiZDhlMGQzYTdcIixcIm1ldGFTaXRlSWRcIjpcIjA1YzYwOTUwLTdjYmQtNDgwZC1iZjc3LWU3MjUwYTE2NTk1NFwiLFwib3duZXJcIjpmYWxzZSxcImNyZWF0aW9uVGltZVwiOjE3NzIyMjU5MzI0MTgsXCJleHBpcmVzSW5cIjoxMjA5NjAwMDAwLFwiZXhwaXJhdGlvblRpbWVcIjoxNzczNDM1NTMyNDE4LFwibGFzdFJlZnJlc2hlZFwiOjE3NzIyMjU5MzMwNzYsXCJhZG1pblwiOmZhbHNlLFwic2Vzc2lvbklkXCI6XCIyNzM5NzlmYS0yYmQyLTQ5ZTctYjVlMS04NGI5YzI0ZTIyOTBcIixcImNvbnRhY3RJZFwiOlwiNDZmMGEwMjItOGQxMy00NzNkLTg5YmUtOTMzMWVlYzFjNzJlXCJ9IiwiaWF0IjoxNzcyMjI1OTMzfQ.tT1w8kk0J8E9_qY9BHFeJNodJiJMa-a2mTdXqbYsofM"
     },
     {
         "domain": ".fabian0606.wixsite.com",
@@ -59,11 +47,23 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "1763739404|YwFrA4gp0ffx"
+        "value": "1772225768|SmQEVS9mfhSB"
+    },
+    {
+        "domain": "fabian0606.wixsite.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "client-session-bind",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "ca8870d8-e316-4551-bd55-1fd02d0ba487"
     },
     {
         "domain": ".fabian0606.wixsite.com",
-        "expirationDate": 1798299421.970983,
+        "expirationDate": 1806785941.453216,
         "hostOnly": false,
         "httpOnly": true,
         "name": "svSession",
@@ -72,6 +72,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "18059e2f6f6c329a4252b5f20a477dad33d51568a911b722da045a44de3791532663609fcfae7bee606b3afc87956da01e60994d53964e647acf431e4f798bcdd22502935709f4c199d76e2d04921dcf3bd8bb02a8e77695435a24e1ae2653e063bc237a38ead133a7b599616fff30e19cd63a9a85f95061fa0612879559f7f8c227c5f77f84ed203f4cce923cc6f84d"
+        "value": "74b2b5380d743df13791565f63140428445a4f15f609b151e8f3158b10262f2bc87562ec0b146897addb807d7989e3aa1e60994d53964e647acf431e4f798bcd02ba46e3f4930e4d048f39ac8f0e6aa39f300578789e067fb24ef54a67f40c9563bc237a38ead133a7b599616fff30e19cd63a9a85f95061fa0612879559f7f8c227c5f77f84ed203f4cce923cc6f84d"
     }
 ]
